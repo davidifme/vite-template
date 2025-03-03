@@ -35,7 +35,6 @@
     "sass": "^1.85.1",
     "vite": "^6.2.0",
     "vite-plugin-compression": "^0.5.1",
-    "vite-plugin-imagemin": "^0.6.1",
     "vitest": "^3.0.7"
   }
 }
